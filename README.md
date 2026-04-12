@@ -16,18 +16,18 @@ We build WordPress plugins that do one job exceptionally well — no bloat, no f
 
 | Plugin | What It Does | Link |
 |--------|-------------|------|
-| **GuardPress** | WordPress security hardening & threat detection | [Learn more](https://royalplugins.com) |
-| **ForgeCache** | Lightweight caching & speed optimization | [Learn more](https://royalplugins.com) |
-| **SiteVault** | Automated backups & disaster recovery | [Learn more](https://royalplugins.com) |
+| **GuardPress** | WordPress security hardening & threat detection | [Learn more](https://royalplugins.com/guardpress/) |
+| **ForgeCache** | Lightweight caching & speed optimization | [Learn more](https://royalplugins.com/forgecache/) |
+| **SiteVault** | Automated backups & disaster recovery | [WordPress.org](https://wordpress.org/plugins/sitevault/) |
 | **SEObolt** | Technical SEO & on-page optimization | [seobolt.io](https://seobolt.io) |
 | **Royal Links** | Internal link management for WordPress | [WordPress.org](https://wordpress.org/plugins/royal-links/) |
 | **Royal MCP** | Model Context Protocol for WordPress | [WordPress.org](https://wordpress.org/plugins/royal-mcp/) |
-| **Royal SMTP** | Email deliverability & SMTP configuration | [Learn more](https://royalplugins.com) |
-| **FormForge** | Lightweight form builder | [Learn more](https://royalplugins.com) |
-| **Royal Affiliates** | Affiliate tracking & management | [Learn more](https://royalplugins.com) |
-| **RoyalComply** | Compliance & privacy management | [Learn more](https://royalplugins.com) |
-| **Royal Access** | User role & permission management | [Learn more](https://royalplugins.com) |
-| **Royal Ledger** | Activity logging & audit trails | [Learn more](https://royalplugins.com) |
+| **Royal SMTP** | Email deliverability & SMTP configuration | [Learn more](https://royalplugins.com/royal-smtp/) |
+| **FormForge** | Lightweight form builder | [Learn more](https://royalplugins.com/formforge/) |
+| **Royal Affiliates** | Affiliate tracking & management | [Learn more](https://royalplugins.com/royal-affiliates/) |
+| **RoyalComply** | Compliance & privacy management | [Learn more](https://royalplugins.com/royal-comply/) |
+| **Royal Access** | User role & permission management | [WordPress.org](https://wordpress.org/plugins/royal-access/) |
+| **Royal Ledger** | Activity logging & audit trails | [Learn more](https://royalplugins.com/royal-ledger/) |
 
 ## 🛠 Free Tools
 
