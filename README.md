@@ -50,6 +50,7 @@ We maintain a set of free tools for the WordPress community:
 
 ## 📝 Latest Writing
 
+- [Your SEO Score Doesn't Matter Anymore (and What Replaced It)](https://royalplugins.medium.com/your-seo-score-doesnt-matter-anymore-and-what-replaced-it-389bbdfa2eaa)
 - [I Audited 50 Popular WordPress Plugins. Here's What Scared Me.](https://royalplugins.substack.com/p/i-audited-50-popular-wordpress-plugins)
 - [WordPress Security in 2026: The Complete Hardening Guide](https://royalplugins.medium.com/wordpress-security-in-2026-the-complete-hardening-guide-756d4579c7f8)
 
