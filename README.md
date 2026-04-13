@@ -18,7 +18,7 @@ We build WordPress plugins that do one job exceptionally well — no bloat, no f
 |--------|-------------|------|
 | **GuardPress** | WordPress security hardening & threat detection | [Learn more](https://royalplugins.com/guardpress/) |
 | **ForgeCache** | Lightweight caching & speed optimization | [Learn more](https://royalplugins.com/forgecache/) |
-| **SiteVault** | Automated backups & disaster recovery | [WordPress.org](https://wordpress.org/plugins/sitevault/) |
+| **SiteVault** | Automated backups & disaster recovery | [WordPress.org](https://wordpress.org/plugins/sitevault-backup-restore-migration/) |
 | **SEObolt** | Technical SEO & on-page optimization | [seobolt.io](https://seobolt.io) |
 | **Royal Links** | Internal link management for WordPress | [WordPress.org](https://wordpress.org/plugins/royal-links/) |
 | **Royal MCP** | Model Context Protocol for WordPress | [WordPress.org](https://wordpress.org/plugins/royal-mcp/) |
@@ -26,7 +26,7 @@ We build WordPress plugins that do one job exceptionally well — no bloat, no f
 | **FormForge** | Lightweight form builder | [Learn more](https://royalplugins.com/formforge/) |
 | **Royal Affiliates** | Affiliate tracking & management | [Learn more](https://royalplugins.com/royal-affiliates/) |
 | **RoyalComply** | Compliance & privacy management | [Learn more](https://royalplugins.com/royal-comply/) |
-| **Royal Access** | User role & permission management | [WordPress.org](https://wordpress.org/plugins/royal-access/) |
+| **Royal Access** | Free accessibility toolbar with 14 features & WCAG fixes | [WordPress.org](https://wordpress.org/plugins/royal-access/) |
 | **Royal Ledger** | Activity logging & audit trails | [Learn more](https://royalplugins.com/royal-ledger/) |
 
 ## 🛠 Free Tools
