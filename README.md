@@ -4,7 +4,7 @@
 
 **Lightweight, security-first WordPress plugins built with clean code.**
 
-[Website](https://royalplugins.com) · [SEObolt](https://seobolt.io) · [Free Tools](https://royalplugins.com/tools) · [WordPress.org](https://profiles.wordpress.org/royalpluginsteam/)
+[Website](https://royalplugins.com) · [SEObolt](https://seobolt.io) · [Free Tools](https://royalplugins.com/tools) · [WordPress.org](https://profiles.wordpress.org/royalpluginsteam/) · [YouTube](https://www.youtube.com/@royalplugins)
 
 </div>
 
@@ -25,7 +25,7 @@ We build WordPress plugins that do one job exceptionally well — no bloat, no f
 | **Royal SMTP** | Email deliverability & SMTP configuration | [Learn more](https://royalplugins.com/royal-smtp/) |
 | **FormForge** | Lightweight form builder with PDF generation | [Learn more](https://royalplugins.com/formforge/) |
 | **Royal Affiliates** | Affiliate tracking & management | [Learn more](https://royalplugins.com/royal-affiliates/) |
-| **RoyalComply** | Cookie compliance with real script blocking | [Learn more](https://royalplugins.com/royal-comply/) |
+| **RoyalComply** | Cookie compliance with real script blocking | [WordPress.org](https://wordpress.org/plugins/royalcomply/) |
 | **Royal Access** | Free accessibility toolbar with 14 features & WCAG fixes | [WordPress.org](https://wordpress.org/plugins/royal-access/) |
 | **Royal Ledger** | WordPress cost & license-key tracking with AES-256 encryption | [Learn more](https://royalplugins.com/royal-ledger/) |
 
@@ -66,6 +66,7 @@ We maintain a set of free tools for the WordPress community:
 
 [![Website](https://img.shields.io/badge/Website-royalplugins.com-blue?style=flat-square)](https://royalplugins.com)
 [![WordPress.org](https://img.shields.io/badge/WordPress.org-royalpluginsteam-21759B?style=flat-square&logo=wordpress)](https://profiles.wordpress.org/royalpluginsteam/)
+[![YouTube](https://img.shields.io/badge/YouTube-@royalplugins-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@royalplugins)
 [![Substack](https://img.shields.io/badge/Substack-royalplugins-orange?style=flat-square&logo=substack)](https://royalplugins.substack.com)
 [![Medium](https://img.shields.io/badge/Medium-@royalplugins-black?style=flat-square&logo=medium)](https://medium.com/@royalplugins)
 [![Dev.to](https://img.shields.io/badge/Dev.to-royal__plugins-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/royal_plugins)
