@@ -20,25 +20,33 @@ We build WordPress plugins that do one job exceptionally well — no bloat, no f
 | **ForgeCache** | Lightweight caching & speed optimization | [Learn more](https://royalplugins.com/forgecache/) |
 | **SiteVault** | Automated backups & disaster recovery | [WordPress.org](https://wordpress.org/plugins/sitevault-backup-restore-migration/) |
 | **SEObolt** | Technical SEO & on-page optimization | [seobolt.io](https://seobolt.io) |
-| **Royal Links** | Internal link management for WordPress | [WordPress.org](https://wordpress.org/plugins/royal-links/) |
+| **Royal Links** | Link management, click tracking, and geo-targeting | [WordPress.org](https://wordpress.org/plugins/royal-links/) |
 | **Royal MCP** | Model Context Protocol for WordPress | [WordPress.org](https://wordpress.org/plugins/royal-mcp/) |
 | **Royal SMTP** | Email deliverability & SMTP configuration | [Learn more](https://royalplugins.com/royal-smtp/) |
-| **FormForge** | Lightweight form builder | [Learn more](https://royalplugins.com/formforge/) |
+| **FormForge** | Lightweight form builder with PDF generation | [Learn more](https://royalplugins.com/formforge/) |
 | **Royal Affiliates** | Affiliate tracking & management | [Learn more](https://royalplugins.com/royal-affiliates/) |
-| **RoyalComply** | Compliance & privacy management | [Learn more](https://royalplugins.com/royal-comply/) |
+| **RoyalComply** | Cookie compliance with real script blocking | [Learn more](https://royalplugins.com/royal-comply/) |
 | **Royal Access** | Free accessibility toolbar with 14 features & WCAG fixes | [WordPress.org](https://wordpress.org/plugins/royal-access/) |
-| **Royal Ledger** | Activity logging & audit trails | [Learn more](https://royalplugins.com/royal-ledger/) |
+| **Royal Ledger** | WordPress cost & license-key tracking with AES-256 encryption | [Learn more](https://royalplugins.com/royal-ledger/) |
+
+## 🧩 Chrome Extensions
+
+- [**Royal Access Chrome**](https://github.com/royalplugins/royal-access-chrome) — Instant WCAG accessibility audit for any web page
+- [**Royal Links Audit**](https://github.com/royalplugins/royal-links-audit-chrome) — Inspect every link on a page — affiliate, tracking, nofollow, unsafe target attributes
+- [**SEObolt SEO Checker**](https://github.com/royalplugins/seobolt-chrome-extension) — 57-test on-page SEO audit with one click
 
 ## 🛠 Free Tools
 
 We maintain a set of free tools for the WordPress community:
 
-- [**Meta Tag Checker**](https://royalplugins.com/tools) — Analyze any page's meta tags
-- [**SERP Preview**](https://royalplugins.com/tools) — Preview how your page looks in Google results
-- [**Schema Validator**](https://royalplugins.com/tools) — Test your structured data markup
-- [**Security Scanner**](https://royalplugins.com/tools) — Check your WordPress site for common vulnerabilities
-- [**SSL Checker**](https://royalplugins.com/tools) — Verify your SSL certificate configuration
-- [**Hardening Checklist**](https://royalplugins.com/tools) — Step-by-step WordPress security hardening guide
+- [**Meta Tag Checker**](https://royalplugins.com/tools/meta-tag-checker/) — Analyze any page's meta tags
+- [**SERP Preview**](https://royalplugins.com/tools/serp-preview/) — Preview how your page looks in Google results
+- [**Schema Validator**](https://royalplugins.com/tools/schema-validator/) — Test your structured data markup
+- [**Security Scanner**](https://royalplugins.com/tools/wordpress-security-scanner/) — Check any WordPress site for vulnerabilities
+- [**Plugin Security Scanner**](https://royalplugins.com/tools/wordpress-plugin-security-scanner/) — Audit plugin code for vulnerabilities
+- [**SSL Checker**](https://royalplugins.com/tools/ssl-checker/) — Verify your SSL certificate configuration
+- [**HTTP Headers Checker**](https://royalplugins.com/tools/http-headers-checker/) — Inspect HTTP response headers
+- [**Hardening Checklist**](https://royalplugins.com/hardening-checklist/) — Step-by-step WordPress security hardening guide
 
 ## 📐 Our Standards
 
